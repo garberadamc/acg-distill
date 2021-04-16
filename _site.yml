@@ -1,0 +1,14 @@
+name: "."
+title: "Adam Garber"
+description: |
+  Adam Garber
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Landing"
+      href: landing-page.html  
+output: distill::distill_article

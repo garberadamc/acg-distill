@@ -1,0 +1,20 @@
+---
+title: "Adam"
+image: "bio-pic.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::jolla
+site: distill::distill_website
+---
+ 
+I am a doctoral student studying Applied Quantitative Methods in Education at the University of California, Santa Barbara. 
+Research interests include: mixture models, autism, special education, data science, reproducibility, causal inference, and R 
+For fun I love all things ocean including freediving and surfing. 
