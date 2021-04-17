@@ -9,7 +9,7 @@ links:
   - label: GitHub
     url: "https://github.com/garberadamc"
   - label: Email
-    url: "mailto:agarber@ucsb.edu "
+    url: "mailto:agarber@ucsb.edu"
 output:
   postcards::trestles
 site: distill::distill_website
