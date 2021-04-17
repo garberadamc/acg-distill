@@ -151,19 +151,21 @@ https://garberadamc.github.io/project-site/
 
 ## SKILLS
 
-- R, RStudio, Rmarkdown (Proficient): Analysis, manipulation, visualization, and presentation of data 
-- Github (Proficient): Website hosting, collaborative project repositories
-- Mplus (Proficient) | SPSS (Proficient) | APA style (Proficient)
+- `R` | `RStudio` | `Rmarkdown`
+- `Data` |  Analysis | Manipulation | Visualization | Presentation 
+- `Github` |  Website Development | Collaborative Project Repositories
+- `Mplus` | `SPSS` | `APA style` 
 
 ## COURSES
 
 #### GRADUATE LEVEL COURSES
 
-Quantitative Causal Inference, Political Methodology (PS 207) • Applied Econometrics (ESM 246) • Introduction to environmental data analysis & stats in R (ESM 206) • Advanced Research Methods & Statistics in Linguistics (LING 202) • Applied Mixture Models (ED 201F) • Structural Equation Modeling (ED 216F) • Factor Analysis (ED 216B) • Advanced Multivariate Statistics (ED 216 A) • Introduction to Statistics (ED 214A) • Inferential Statistics (214B) • Linear Statistics (ED 214C) 
-Qualitative Research Methods (ED 221A) • Constructing Measures (ED 217A) • Analyzing and Validating Measures (ED 217B) • Language as Culture (LING 227) • Cultural Psychology (ED 201F) • Anthropological Perspectives on Education (ED 205) • Neuroscience (PSYCH 211) • Behavioral Neuroendocrinology (PSYCH 235) • Teaching Psychology (PSYCH 590A) • Advances in the Learning Sciences (210A) • Classroom Ethnography (ED 221B) • Cognitive Perspectives on Achievement Motivation (ED 209I) • Cognitive Science, Spatial Cognition (INT 201A) • Cognitive Science & Similarity (INT 201B) • Cognitive Science and the Humanities: Bridging the Divide (INT 201C)
+**Quantitative** Causal Inference, Political Methodology (PS 207) • Applied **Econometrics** (ESM 246) • Introduction to environmental data analysis & stats in R (ESM 206) • Advanced Research Methods & Statistics in **Linguistics** (LING 202) • Applied **Mixture** Models (ED 201F) • **Structural Equation Modeling** (ED 216F) • Factor Analysis (ED 216B) • Advanced Multivariate Statistics (ED 216 A) • Introduction to Statistics (ED 214A) • Inferential Statistics (214B) • Linear Statistics (ED 214C) 
 
-Special Education Law (ED 222D) • Cognitive Development in Autism and Other Severe Disabilities (CNCSP 212) • Cognitive Assessment in Professional Psychology (CNCSP 250) • Behavioral Assessment and Intervention for Children and Adolescents (CNCSP 256) • Academic and Cognitive Characteristics of Students with Mild Disabilities (ED 222B) • Professional Issues in Severe Developmental Disabilities (ED 291) • Social and Affective Characteristics of Children with Learning Disabilities (ED 222C) • Single Case Experimental Design (ED 201D) • Exceptional Children (ED 222A) 
+**Qualitative** Research Methods (ED 221A) • Constructing **Measures** (ED 217A) • Analyzing and Validating Measures (ED 217B) • Language as **Culture** (LING 227) • Cultural Psychology (ED 201F) • Anthropological Perspectives on Education (ED 205) • **Neuroscience** (PSYCH 211) • Behavioral Neuroendocrinology (PSYCH 235) • Teaching **Psychology** (PSYCH 590A) • Advances in the Learning Sciences (210A) • Classroom Ethnography (ED 221B) • **Cognitive** Perspectives on Achievement Motivation (ED 209I) • Cognitive Science, Spatial Cognition (INT 201A) • Cognitive Science & Similarity (INT 201B) • Cognitive Science and the Humanities: Bridging the Divide (INT 201C)
+
+**Special Education** Law (ED 222D) • Cognitive Development in **Autism** and Other Severe Disabilities (CNCSP 212) • Cognitive Assessment in Professional Psychology (CNCSP 250) • **Behavioral** Assessment and Intervention for Children and Adolescents (CNCSP 256) • Academic and Cognitive Characteristics of Students with Mild Disabilities (ED 222B) • Professional Issues in Severe Developmental Disabilities (ED 291) • Social and Affective Characteristics of Children with **Learning Disabilities** (ED 222C) • Single Case Experimental Design (ED 201D) • **Exceptional Children** (ED 222A) 
 
 #### AUDITED COURSES
 
-Causal Inference for Social Science (PS 207) • Introduction to Multilevel Modeling  (UCLA; PSYCH256A) • Advanced methods for environmental data analysis in R (ESM 244) • Bayesian Statistics (PSTAT 115) • Introduction to Machine Learning (PSTAT 231) • Machine Learning (CS 165B) • Survey Design & Environmental Public Opinion (ESM 218) • Computational Neuroscience (PSYCH 265)
+**Causal Inference** for Social Science (PS 207) • Introduction to **Multilevel Modeling**  (UCLA; PSYCH256A) • Advanced Methods for Environmental **Data Analysis** in R (ESM 244) • **Bayesian** Statistics (PSTAT 115) • Introduction to **Machine Learning** (PSTAT 231) • Machine Learning (CS 165B) • Survey Design & Environmental Public Opinion (ESM 218) • Computational Neuroscience (PSYCH 265)

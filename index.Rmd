@@ -10,7 +10,7 @@ links:
     url: "https://github.com/garberadamc"
   - label: Email
     url: "mailto:agarber@ucsb.edu"
-  - label: Tidy Workflow with MplusAutomation
+  - label: Tidy MplusAutomation
     url: "https://garberadamc.github.io/project-site/"
 output:
   postcards::trestles
@@ -25,9 +25,9 @@ I am a doctoral student studying Applied Quantitative Methods in Education at th
 
 ## Research interests
 
-applied methods | mixture models | structural equation modeling | causal inference
-data science | R | reproducibility 
-education | special education | autism
+Applied Methods | `Mixture Models` | Structural Equation Modeling  <br />
+Data Science | `R` | Reproducibility <br />
+Education | `Special Education` | Autism 
 
 ***
 
