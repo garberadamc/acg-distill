@@ -10,6 +10,8 @@ links:
     url: "https://github.com/garberadamc"
   - label: Email
     url: "mailto:agarber@ucsb.edu"
+  - label: Tidy Workflow with MplusAutomation
+    url: "https://garberadamc.github.io/project-site/"
 output:
   postcards::trestles
 site: distill::distill_website
