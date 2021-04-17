@@ -1,20 +1,38 @@
 ---
-title: "Adam"
+title: "Adam Garber"
 image: "bio-pic.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/adam-garber-765031210/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/Adam_C_Garber"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/garberadamc"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:agarber@ucsb.edu "
 output:
-  postcards::jolla
+  postcards::trestles
 site: distill::distill_website
 ---
  
+## About 
+ 
 I am a doctoral student studying Applied Quantitative Methods in Education at the University of California, Santa Barbara. 
-Research interests include: mixture models, autism, special education, data science, reproducibility, causal inference, and R 
-For fun I love all things ocean including freediving and surfing. 
+
+***
+
+## Research interests
+
+applied methods | mixture models | structural equation modeling | causal inference
+data science | R | reproducibility 
+education | special education | autism
+
+***
+
+
+
+
+
+
+
+

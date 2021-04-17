@@ -10,3 +10,8 @@ library(distill)
 create_website(dir = ".", title = "Adam Garber", gh_pages = TRUE)
 
 create_postcard("file = landing-page.Rmd")
+
+create_theme(name = "theme") 
+
+?create_theme() 
+

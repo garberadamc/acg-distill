@@ -1,0 +1,169 @@
+---
+title: "CV"
+description: |
+  Adam C. Garber
+  
+  Email | agarber@ucsb.edu
+  
+  R course materials | https://garberadamc.github.io/project-site/
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## EDUCATION 
+
+Doctoral Student (September 2015 – Present) <br />
+Education, Emphases in Quantitative Methods & Cognitive Science <br />
+University of California, Santa Barbara <br />
+Advisor: Dr. Karen Nylund-Gibson 
+
+Master of Arts (May 2019) <br />
+University of California, Santa Barbara <br />
+Education, Special Education 
+
+Bachelor of Arts (May, 2011) <br />
+University of California, Santa Cruz <br />
+Psychology 
+
+## TEACHING EXPERIENCE
+
+Graduate Teaching Assistant (Spring, 2020) <br /> 
+ED 216C: Structural Equation Modeling; Dr. Nylund-Gibson <br />
+University of California, Santa Barbara
+
+Graduate Teaching Assistant (Winter, 2020)  <br />
+ED 216B: Factor Analysis; Dr. Nylund-Gibson   <br />
+University of California, Santa Barbara
+
+Graduate Teaching Assistant	(Fall, 2019) <br />
+ED 216G: Applied Mixture Modeling; Dr. Nylund-Gibson <br />
+University of California, Santa Barbara
+
+Graduate Teaching Assistant (Spring, 2019) <br />
+ED 214C: Linear Statistical Models for Data Analysis; Dr. Nylund-Gibson <br />
+University of California, Santa Barbara
+
+Teaching Assistant (Summer, 2017) <br />
+INT95: Freshman Summer Start Program (FSSP); Dr. Ralph Gallucci <br />
+University of California, Santa Barbara
+
+## WORKSHOPS
+
+Teaching Assistant (Winter, 2019) <br />
+Professional Development Mini-Course: Introduction to Latent Transition Analysis. <br />
+AERA Annual Meeting Toronto, Canada 
+
+Teaching Assistant (Summer, 2019) <br />
+Professional Development Intensive Two Day Course: Introduction to Latent Transition Analysis. <br /> 
+Methods U, GGSE, University of California, Santa Barbara 
+
+## ACADEMIC WORK EXPERIENCE 
+
+#### ACADEMIC APPOINTMENTS
+
+Graduate Student Researcher, Implicit Bias Study (2020 – Present) <br />
+Position: Hosted by Westmont College (50% appointment) <br />
+Principal Investigator: Dr. Carmel Saad
+
+Graduate Statistics Support Peer (2019 – 20) <br />
+Position: Hosted by Gervitz Graduate School of Education (25% appointment)
+
+Graduate Student Researcher (2016 – 2017) <br />
+Position: Hosted by Department of Chemical Engineering (50% appointment) <br />
+Principal Investigator: Dr. Michael Gerber (University of California, Santa Barbara)
+
+Cognitive Research Assistant (2011) <br />
+Principal Investigator: Professor Alan H Kawamoto <br />
+University of California, Santa Cruz
+
+#### GRANT WRITING EXPERIENCE
+
+Grant Writing Research Assistant (2020) <br />
+Investigator: Nylund-Gibson  <br />
+Applied Mixture Modeling Training Workshops and Resources for Education Researchers <br />
+To be submitted to Institute of Education Sciences. (in progress)
+
+Grant Writing Research Assistant (2019)  <br />
+Investigator: Nylund-Gibson <br />
+Applied Mixture Modeling Training Workshops and Resources for Education Researchers <br />
+Submitted to Institute of Education Sciences (IES). 
+
+Grant Writing Research Assistant (2015) <br />
+Investigator: Wang & Singer  <br />
+A comparative study of patterns of family support for children with developmental disabilities:  <br />
+Similarities and differences in U.S. and China. Submitted to Department of Education.
+
+## PRESENTATIONS											                    
+
+Garber, A. & Nylund-Gibson, K. L. (2021) Structural Invariance in Multigroup Latent Class Analysis: Perception of Disability Status and Academic Expectations [Symposium]. AERA Annual Meeting (virtual)
+
+Garber, A., Wang, M. & Nylund-Gibson, K. L. (2021) Typologies of Autism: The Utility of Latent Class Analysis to Understand Heterogeneity in Social Responsiveness [Symposium]. AERA Annual Meeting (virtual)
+
+Garber, A. & Nylund-Gibson, K. L. (2020) Structural Invariance in Multigroup Latent Class Analysis: Perception of Disability Status and Academic Expectations. GGSE Interdisciplinary Research Symposium Santa Barbara, CA.
+
+Garber, A. & Nylund-Gibson, K. L. (2020) Structural Invariance in Multigroup Latent Class Analysis: Perception of Disability Status and Academic Expectations [Symposium]. AERA Annual Meeting San Francisco, CA http://tinyurl.com/vg5nw9q (Conference Canceled)
+
+Garber, A., Wang, M. & Nylund-Gibson, K. L. (2020) Typologies of Autism: The Utility of Latent Class Analysis to Understand Heterogeneity in Social Responsiveness [Symposium]. AERA Annual Meeting San Francisco, CA http://tinyurl.com/yx6ve9yg (Conference Canceled)
+
+Nylund-Gibson, K. L. & Garber, A. (2020) Understanding Change in Latent Transition Analysis Models Using Auxiliary Variables [Symposium]. AERA Annual Meeting San Francisco, CA http://tinyurl.com/vuslpat (Conference Canceled)
+
+Carter, D., Garber, A., Nylund-Gibson, K. L., Dowdy, E. & Furlong, M. J. (2020) Understanding Patterns of Social-Emotional Strengths Across Students With and Without Disabilities: Different, Not Worse [Symposium]. AERA Annual Meeting San Francisco, CA http://tinyurl.com/qlyypv5 (Conference Canceled)
+
+Garber, A. & Nylund-Gibson, K. L. (2019) Conditional Mediation in Latent Class Analysis [Symposium]. AERA Annual Meeting Toronto, Canada
+
+Garber, A. & Wang, M. (2017) Responsive Early Education and Intervention: A Call for School and Family Collaboration [Poster]. CEC Annual Meeting Boston, MA
+
+## PUBLICATIONS
+											                      
+Felix, E.D., Afifi, T., Horan, S. M., Meskunas, H., & Garber, A. (2020). Why family communication matters: The role of co-rumination and topic avoidance in understanding post-disaster mental health.
+
+Nylund-Gibson, K., Garber, A., Carter, D., Simon, O., Whaling, K., Arch, D., Chan, M., Lawrie, S., and Tartt, E. (in progress) Ten Frequently Asked Questions about Latent Transition Analysis (LTA).
+
+Nylund-Gibson, K., Garber, A., Nishina, A., Bellmore, A., Witkow, M., Singh, J. (in progress). The Utility of Latent Class Analysis to Understand Heterogeneity in Youth Coping Strategies: A Methodological Introduction.
+
+Denson, N., Ing, M., Nylund-Gibson, K., Garber, A., Whaling, K., Chan, M., Carter, D., Arch, D. (in progress). Interactions with Diversity in Higher Education: A Latent Class Analysis. 
+
+## WORK EXPERIENCE
+
+Behavioral Clinician (June 2016 – 2020)
+Koegel Autism Center 
+University of California, Santa Barbara
+
+Behavioral Clinician (September 2014 – June 2017)
+Holdsambeck & Associates 							           
+Santa Barbara, CA
+
+Behavioral Clinician (May 2014 – December 2014)
+Trumpet Behavioral Health 							            
+Santa Barbara, CA
+
+Mental Health Worker (February 2010 – January 2011)							       
+7th Avenue Center: Mental Health Hospital 
+Santa Cruz, CA
+
+## ACADEMIC PROJECTS
+
+Website: `Tidy Workflow with MplusAutomation`  <br />
+Teaching materials & tutorials in advanced quantitative methods taught with R programming language: <br />
+https://garberadamc.github.io/project-site/
+
+## Skills & Software 
+
+- R, RStudio, Rmarkdown (Proficient): Analysis, manipulation, visualization, and presentation of data 
+- Github (Proficient): Website hosting, collaborative project repositories
+- Mplus (Proficient) | SPSS (Proficient) | APA style (Proficient)
+
+## Courses
+
+**GRADUATE LEVEL COURSES**
+
+Quantitative Causal Inference, Political Methodology (PS 207) • Applied Econometrics (ESM 246) • Introduction to environmental data analysis & stats in R (ESM 206) • Advanced Research Methods & Statistics in Linguistics (LING 202) • Applied Mixture Models (ED 201F) • Structural Equation Modeling (ED 216F) • Factor Analysis (ED 216B) • Advanced Multivariate Statistics (ED 216 A) • Introduction to Statistics (ED 214A) • Inferential Statistics (214B) • Linear Statistics (ED 214C) 
+Qualitative Research Methods (ED 221A) • Constructing Measures (ED 217A) • Analyzing and Validating Measures (ED 217B) • Language as Culture (LING 227) • Cultural Psychology (ED 201F) • Anthropological Perspectives on Education (ED 205) • Neuroscience (PSYCH 211) • Behavioral Neuroendocrinology (PSYCH 235) • Teaching Psychology (PSYCH 590A) • Advances in the Learning Sciences (210A) • Classroom Ethnography (ED 221B) • Cognitive Perspectives on Achievement Motivation (ED 209I) • Cognitive Science, Spatial Cognition (INT 201A) • Cognitive Science & Similarity (INT 201B) • Cognitive Science and the Humanities: Bridging the Divide (INT 201C)
+
+Special Education Law (ED 222D) • Cognitive Development in Autism and Other Severe Disabilities (CNCSP 212) • Cognitive Assessment in Professional Psychology (CNCSP 250) • Behavioral Assessment and Intervention for Children and Adolescents (CNCSP 256) • Academic and Cognitive Characteristics of Students with Mild Disabilities (ED 222B) • Professional Issues in Severe Developmental Disabilities (ED 291) • Social and Affective Characteristics of Children with Learning Disabilities (ED 222C) • Single Case Experimental Design (ED 201D) • Exceptional Children (ED 222A) 
+
+**AUDITED COURSES**
+
+Causal Inference for Social Science (PS 207) • Introduction to Multilevel Modeling  (UCLA; PSYCH256A) • Advanced methods for environmental data analysis in R (ESM 244) • Bayesian Statistics (PSTAT 115) • Introduction to Machine Learning (PSTAT 231) • Machine Learning (CS 165B) • Survey Design & Environmental Public Opinion (ESM 218) • Computational Neuroscience (PSYCH 265)
