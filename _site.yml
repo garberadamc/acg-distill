@@ -3,6 +3,7 @@ title: "Adam Garber"
 description: |
   Adam Garber
 output_dir: "docs"
+google_analytics: "UA-158630433-1"
 theme: theme.css
 navbar:
   right:

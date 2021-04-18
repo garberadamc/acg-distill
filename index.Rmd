@@ -2,16 +2,17 @@
 title: "Adam Garber"
 image: "bio-pic.jpg"
 links:
+  - label: Tidy MplusAutomation
+    url: "https://garberadamc.github.io/project-site/"
+  - label: Email
+    url: "mailto:agarber@ucsb.edu"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/adam-garber-765031210/"
   - label: Twitter
     url: "https://twitter.com/Adam_C_Garber"
   - label: GitHub
     url: "https://github.com/garberadamc"
-  - label: Email
-    url: "mailto:agarber@ucsb.edu"
-  - label: Tidy MplusAutomation
-    url: "https://garberadamc.github.io/project-site/"
+
 output:
   postcards::trestles
 site: distill::distill_website
