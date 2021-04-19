@@ -1,6 +1,10 @@
 ---
 title: "Adam Garber"
 image: "bio-pic.jpg"
+base_url: https://garberadamc.github.io/acg-distill/
+preview: island_mark.png
+twitter:
+  site: "@Adam_C_Garber"
 links:
   - label: Tidy MplusAutomation
     url: "https://garberadamc.github.io/project-site/"
@@ -12,7 +16,6 @@ links:
     url: "https://twitter.com/Adam_C_Garber"
   - label: GitHub
     url: "https://github.com/garberadamc"
-
 output:
   postcards::trestles
 site: distill::distill_website
