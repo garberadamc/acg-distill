@@ -2,6 +2,10 @@ name: "."
 title: "Adam Garber"
 description: |
   Adam Garber
+base_url: https://garberadamc.github.io/acg-distill/
+preview: island_mark.png
+twitter:
+  site: "@Adam_C_Garber"
 output_dir: "docs"
 google_analytics: "UA-158630433-1"
 theme: theme.css
