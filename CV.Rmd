@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## EDUCATION 
 
-Doctoral Student (September 2015 – Present) <br />
+Doctoral Student, Advanced to Candidacy (September 2015 – Present) <br />
 Education, Emphases in Quantitative Methods & Cognitive Science <br />
 University of California, Santa Barbara <br />
 Advisor: Dr. Karen Nylund-Gibson 
@@ -29,27 +29,47 @@ Psychology
 
 ## TEACHING EXPERIENCE
 
-Graduate Teaching Assistant (Spring, 2020) <br /> 
+Teaching Associate, graduate course (Spring, 2023) <br /> 
 ED 216C: Structural Equation Modeling; Dr. Nylund-Gibson <br />
 University of California, Santa Barbara
 
-Graduate Teaching Assistant (Winter, 2020)  <br />
+Teaching Assistant, undergraduate course (Spring, 2022) <br /> 
+ED 145: Structural Equation Modeling; Dr. Marcoulides <br />
+University of California, Santa Barbara
+
+Teaching Assistant, graduate course (Spring, 2020) <br /> 
+ED 216C: Structural Equation Modeling; Dr. Nylund-Gibson <br />
+University of California, Santa Barbara
+
+Teaching Assistant, graduate course (Winter, 2020)  <br />
 ED 216B: Factor Analysis; Dr. Nylund-Gibson   <br />
 University of California, Santa Barbara
 
-Graduate Teaching Assistant	(Fall, 2019) <br />
+Teaching Assistant, graduate course	(Fall, 2019) <br />
 ED 216G: Applied Mixture Modeling; Dr. Nylund-Gibson <br />
 University of California, Santa Barbara
 
-Graduate Teaching Assistant (Spring, 2019) <br />
+Teaching Assistant, graduate course (Spring, 2019) <br />
 ED 214C: Linear Statistical Models for Data Analysis; Dr. Nylund-Gibson <br />
 University of California, Santa Barbara
 
-Teaching Assistant (Summer, 2017) <br />
+Teaching Assistant, undergraduate course (Summer, 2017) <br />
 INT95: Freshman Summer Start Program (FSSP); Dr. Ralph Gallucci <br />
 University of California, Santa Barbara
 
 ## WORKSHOPS
+
+Course Instructor (Fall, 2022) <br />
+QuantFish Online Course: Introductory to Advanced MplusAutomation. <br />
+Norwegian University of Science and Technology
+
+Teaching Assistant (Summer, 2022) <br />
+Professional Development Intensive Two Day Course: Introduction to Latent Transition Analysis. <br /> 
+Methods U, GGSE, University of California, Santa Barbara 
+
+Workshop Instructor (Winter, 2021) <br />
+Professional Development Two Day Course: Introduction to MplusAutomation. <br />
+Norwegian University of Science and Technology
 
 Teaching Assistant (Winter, 2019) <br />
 Professional Development Mini-Course: Introduction to Latent Transition Analysis. <br />
@@ -63,14 +83,25 @@ Methods U, GGSE, University of California, Santa Barbara
 
 #### ACADEMIC APPOINTMENTS
 
-Graduate Student Researcher, Implicit Bias Study (2020 – Present) <br />
+Graduate Student Researcher, MM4DBER (3 quarters; 2023 – 2024) <br />
+Grant: Mixture Modeling for Discipline Based Education Researchers  <br />
+Position: Hosted by Gervitz Graduate School of Education (50% appointment) <br />
+Principal Investigator: Dr. Karen Nylund-Gibson
+
+Graduate Student Researcher, IMMERSE (2 quarters; 2022 – 2023) <br />
+Grant: Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators  <br />
+Position: Hosted by Gervitz Graduate School of Education (50% appointment) <br />
+Principal Investigator: Dr. Karen Nylund-Gibson
+
+Graduate Student Researcher, Implicit Bias Study (2 years; 2020 – 2022) <br />
 Position: Hosted by Westmont College (50% appointment) <br />
 Principal Investigator: Dr. Carmel Saad
 
-Graduate Statistics Support Peer (2019 – 20) <br />
+Graduate Statistics Support Peer (3 quarters; 2019 – 2020) <br />
 Position: Hosted by Gervitz Graduate School of Education (25% appointment)
 
-Graduate Student Researcher (2016 – 2017) <br />
+Graduate Student Researcher, ESTEEM (2016 – 2017) <br />
+Grant: Enhancing Success in Transfer Education for Engineering Majors <br />s
 Position: Hosted by Department of Chemical Engineering (50% appointment) <br />
 Principal Investigator: Dr. Michael Gerber (University of California, Santa Barbara)
 
@@ -116,12 +147,12 @@ Garber, A. & Nylund-Gibson, K. L. (2019) Conditional Mediation in Latent Class A
 Garber, A. & Wang, M. (2017) Responsive Early Education and Intervention: A Call for School and Family Collaboration [Poster]. CEC Annual Meeting Boston, MA
 
 ## PUBLICATIONS
+
+Nylund-Gibson, K., Garber, A., Carter, D., Simon, O., Whaling, K., Arch, D., Chan, M., Lawrie, S., and Tartt, E. (2023) Ten Frequently Asked Questions about Latent Transition Analysis (LTA).
+
+Nylund-Gibson, K., Garber, A., Nishina, A., Bellmore, A., Witkow, M., Singh, J. (2022). The Utility of Latent Class Analysis to Understand Heterogeneity in Youth Coping Strategies: A Methodological Introduction.
 											                      
 Felix, E.D., Afifi, T., Horan, S. M., Meskunas, H., & Garber, A. (2020). Why family communication matters: The role of co-rumination and topic avoidance in understanding post-disaster mental health.
-
-Nylund-Gibson, K., Garber, A., Carter, D., Simon, O., Whaling, K., Arch, D., Chan, M., Lawrie, S., and Tartt, E. (in progress) Ten Frequently Asked Questions about Latent Transition Analysis (LTA).
-
-Nylund-Gibson, K., Garber, A., Nishina, A., Bellmore, A., Witkow, M., Singh, J. (in progress). The Utility of Latent Class Analysis to Understand Heterogeneity in Youth Coping Strategies: A Methodological Introduction.
 
 Denson, N., Ing, M., Nylund-Gibson, K., Garber, A., Whaling, K., Chan, M., Carter, D., Arch, D. (in progress). Interactions with Diversity in Higher Education: A Latent Class Analysis. 
 
