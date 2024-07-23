@@ -61,7 +61,7 @@ University of California, Santa Barbara
 
 Course Instructor (Fall, 2022) <br />
 QuantFish Online Course: Introductory to Advanced MplusAutomation. <br />
-Norwegian University of Science and Technology
+https://www.goquantfish.com/courses/mplus-automation
 
 Teaching Assistant (Summer, 2022) <br />
 Professional Development Intensive Two Day Course: Introduction to Latent Transition Analysis. <br /> 
