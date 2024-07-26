@@ -65,7 +65,7 @@ https://www.goquantfish.com/courses/mplus-automation
 
 Teaching Assistant (Summer, 2022) <br />
 Professional Development Intensive Two Day Course: Introduction to Latent Transition Analysis. <br /> 
-Methods U, GGSE, University of California, Santa Barbara 
+[Methods U](https://methodsu.weebly.com/), GGSE, University of California, Santa Barbara 
 
 Workshop Instructor (Winter, 2021) <br />
 Professional Development Two Day Course: Introduction to MplusAutomation. <br />
@@ -84,12 +84,12 @@ Methods U, GGSE, University of California, Santa Barbara
 #### ACADEMIC APPOINTMENTS
 
 Graduate Student Researcher, MM4DBER (3 quarters; 2023 – 2024) <br />
-Grant: Mixture Modeling for Discipline Based Education Researchers  <br />
+Grant: [Mixture Modeling for Discipline Based Education Researchers](https://mm4dbers.education.ucsb.edu/mixture-modeling-training)  <br />
 Position: Hosted by Gervitz Graduate School of Education (50% appointment) <br />
 Principal Investigator: Dr. Karen Nylund-Gibson
 
 Graduate Student Researcher, IMMERSE (2 quarters; 2022 – 2023) <br />
-Grant: Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators  <br />
+Grant: [Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators](https://immerse.education.ucsb.edu/overview)  <br />
 Position: Hosted by Gervitz Graduate School of Education (50% appointment) <br />
 Principal Investigator: Dr. Karen Nylund-Gibson
 
@@ -148,13 +148,13 @@ Garber, A. & Wang, M. (2017) Responsive Early Education and Intervention: A Call
 
 ## PUBLICATIONS
 
-Nylund-Gibson, K., Garber, A., Carter, D., Simon, O., Whaling, K., Arch, D., Chan, M., Lawrie, S., and Tartt, E. (2023) Ten Frequently Asked Questions about Latent Transition Analysis (LTA). Psychological Methods.
+Nylund-Gibson, K., Garber, A., Carter, D., Simon, O., Whaling, K., Arch, D., Chan, M., Lawrie, S., and Tartt, E. (2023) [Ten Frequently Asked Questions about Latent Transition Analysis](https://psycnet.apa.org/record/2022-79821-001). Psychological Methods.
 
-Nylund-Gibson, K., Garber, A., Nishina, A., Bellmore, A., Witkow, M., Singh, J. (2023). The Utility of Latent Class Analysis to Understand Heterogeneity in Youth Coping Strategies: A Methodological Introduction. Behavioral Disorders, 48(2), 106-120.
+Nylund-Gibson, K., Garber, A., Nishina, A., Bellmore, A., Witkow, M., Singh, J. (2023). [The Utility of Latent Class Analysis to Understand Heterogeneity in Youth Coping Strategies: A Methodological Introduction](https://journals.sagepub.com/doi/full/10.1177/01987429211067214). Behavioral Disorders, 48(2), 106-120.
 
-Denson, N., Ing, M., Nylund-Gibson, K., Garber, A., Whaling, K., Chan, M., Carter, D., Arch, D. (2022). A latent class analysis of students' openness to learning from diverse others. Journal of Diversity in Higher Education.
+Denson, N., Ing, M., Nylund-Gibson, K., Garber, A., Whaling, K., Chan, M., Carter, D., Arch, D. (2022). [A latent class analysis of students' openness to learning from diverse others](https://psycnet.apa.org/record/2023-19795-001). Journal of Diversity in Higher Education.
 											                      
-Felix, E.D., Afifi, T., Horan, S. M., Meskunas, H., & Garber, A. (2020). Why family communication matters: The role of co-rumination and topic avoidance in understanding post-disaster mental health. Journal of abnormal child psychology.
+Felix, E.D., Afifi, T., Horan, S. M., Meskunas, H., & Garber, A. (2020). [Why family communication matters: The role of co-rumination and topic avoidance in understanding post-disaster mental health](https://link.springer.com/article/10.1007/s10802-020-00688-7). Journal of abnormal child psychology.
 
 ## WORK EXPERIENCE
 
@@ -176,9 +176,9 @@ Santa Cruz, CA
 
 ## ACADEMIC PROJECTS
 
-Website: `Tidy Workflow with MplusAutomation`  <br />
-Teaching materials & tutorials in advanced quantitative methods taught with R programming language: <br />
-https://garberadamc.github.io/project-site/
+Website: [`Tidy Workflow with MplusAutomation`](https://garberadamc.github.io/project-site/)  <br />
+Teaching materials & tutorials in advanced quantitative methods taught using R. <br />
+
 
 ## SKILLS
 
@@ -191,7 +191,7 @@ https://garberadamc.github.io/project-site/
 
 #### GRADUATE LEVEL COURSES
 
-**Quantitative** Causal Inference, Political Methodology (PS 207) • Introduction to environmental data analysis & stats in R (ESM 206) • Advanced Research Methods & Statistics in **Linguistics** (LING 202) • Applied **Mixture** Models (ED 201F) • **Structural Equation Modeling** (ED 216F) • Factor Analysis (ED 216B) • Advanced Multivariate Statistics (ED 216 A) • Introduction to Statistics (ED 214A) • Inferential Statistics (214B) • Linear Statistics (ED 214C) 
+**Quantitative** Causal Inference, Political Methodology (PS 207) • Applied **Econometrics** (ESM 246) • Introduction to environmental data analysis & stats in R (ESM 206) • Advanced Research Methods & Statistics in **Linguistics** (LING 202) • Applied **Mixture** Models (ED 201F) • **Structural Equation Modeling** (ED 216F) • Factor Analysis (ED 216B) • Advanced Multivariate Statistics (ED 216 A) • Introduction to Statistics (ED 214A) • Inferential Statistics (214B) • Linear Statistics (ED 214C) 
 
 **Qualitative** Research Methods (ED 221A) • Constructing **Measures** (ED 217A) • Analyzing and Validating Measures (ED 217B) • Language as **Culture** (LING 227) • Cultural Psychology (ED 201F) • Anthropological Perspectives on Education (ED 205) • **Neuroscience** (PSYCH 211) • Behavioral Neuroendocrinology (PSYCH 235) • Teaching **Psychology** (PSYCH 590A) • Advances in the Learning Sciences (210A) • Classroom Ethnography (ED 221B) • **Cognitive** Perspectives on Achievement Motivation (ED 209I) • Cognitive Science, Spatial Cognition (INT 201A) • Cognitive Science & Similarity (INT 201B) • Cognitive Science and the Humanities: Bridging the Divide (INT 201C)
 
@@ -199,4 +199,4 @@ https://garberadamc.github.io/project-site/
 
 #### AUDITED COURSES
 
-**Causal Inference** for Social Science (PS 207) • Applied **Econometrics** (ESM 246) • Introduction to **Multilevel Modeling**  (UCLA; PSYCH256A) • Advanced Methods for Environmental **Data Analysis** in R (ESM 244) • **Bayesian** Statistics (PSTAT 115) • Introduction to **Machine Learning** (PSTAT 231) • Machine Learning (CS 165B) • Survey Design & Environmental Public Opinion (ESM 218) • Computational Neuroscience (PSYCH 265)
+**Causal Inference** for Social Science (PS 207) •  Introduction to **Multilevel Modeling**  (UCLA; PSYCH256A) • Advanced Methods for Environmental **Data Analysis** in R (ESM 244) • **Bayesian** Statistics (PSTAT 115) • Introduction to **Machine Learning** (PSTAT 231) • Machine Learning (CS 165B) • Survey Design & Environmental Public Opinion (ESM 218) • Computational Neuroscience (PSYCH 265)
