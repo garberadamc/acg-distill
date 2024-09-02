@@ -31,7 +31,7 @@ I am a doctoral student studying Applied Quantitative Methods in Education at th
 
 Applied Methods | `Mixture Models` | Structural Equation Modeling  <br />
 Data Science | `R` | Reproducibility <br />
-Education | `Special Education` | Autism 
+Education | `Environmental Education` | Autism 
 
 ***
 

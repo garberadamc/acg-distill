@@ -4,8 +4,7 @@ description: |
   Adam C. Garber
   
   Email | agarber@ucsb.edu
-  
-  R course materials | https://garberadamc.github.io/project-site/
+
 ---
 
 ```{r setup, include=FALSE}
@@ -14,12 +13,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## EDUCATION 
 
-Doctoral Student, Advanced to Candidacy (September 2015 – Present) <br />
+Doctoral Student, Advanced to Candidacy (September 2017 – Present) <br />
 Education, Emphasis in Quantitative Methods <br />
+Interdisciplinary Emphasis, Quantitative Methods in Social Science
 University of California, Santa Barbara <br />
 Advisor: Dr. Karen Nylund-Gibson 
 
-Master of Arts (May 2019) <br />
+Master of Arts (May 2017) <br />
 University of California, Santa Barbara <br />
 Education, Special Education 
 
@@ -113,8 +113,8 @@ University of California, Santa Cruz
 
 Grant Writing Research Assistant (2020) <br />
 Investigator: Nylund-Gibson  <br />
-Applied Mixture Modeling Training Workshops and Resources for Education Researchers <br />
-To be submitted to Institute of Education Sciences. (in progress)
+Applied Mixture Modeling Training Workshops for Discipline Based Education Researchers <br />
+Submitted to National Science Foundation (NSF). 
 
 Grant Writing Research Assistant (2019)  <br />
 Investigator: Nylund-Gibson <br />
@@ -126,26 +126,6 @@ Investigator: Wang & Singer  <br />
 A comparative study of patterns of family support for children with developmental disabilities:  <br />
 Similarities and differences in U.S. and China. Submitted to Department of Education.
 
-## PRESENTATIONS											                    
-
-Garber, A. & Nylund-Gibson, K. L. (2021) Structural Invariance in Multigroup Latent Class Analysis: Perception of Disability Status and Academic Expectations [Symposium]. AERA Annual Meeting (virtual)
-
-Garber, A., Wang, M. & Nylund-Gibson, K. L. (2021) Typologies of Autism: The Utility of Latent Class Analysis to Understand Heterogeneity in Social Responsiveness [Symposium]. AERA Annual Meeting (virtual)
-
-Garber, A. & Nylund-Gibson, K. L. (2020) Structural Invariance in Multigroup Latent Class Analysis: Perception of Disability Status and Academic Expectations. GGSE Interdisciplinary Research Symposium Santa Barbara, CA.
-
-Garber, A. & Nylund-Gibson, K. L. (2020) Structural Invariance in Multigroup Latent Class Analysis: Perception of Disability Status and Academic Expectations [Symposium]. AERA Annual Meeting San Francisco, CA http://tinyurl.com/vg5nw9q (Conference Canceled)
-
-Garber, A., Wang, M. & Nylund-Gibson, K. L. (2020) Typologies of Autism: The Utility of Latent Class Analysis to Understand Heterogeneity in Social Responsiveness [Symposium]. AERA Annual Meeting San Francisco, CA http://tinyurl.com/yx6ve9yg (Conference Canceled)
-
-Nylund-Gibson, K. L. & Garber, A. (2020) Understanding Change in Latent Transition Analysis Models Using Auxiliary Variables [Symposium]. AERA Annual Meeting San Francisco, CA http://tinyurl.com/vuslpat (Conference Canceled)
-
-Carter, D., Garber, A., Nylund-Gibson, K. L., Dowdy, E. & Furlong, M. J. (2020) Understanding Patterns of Social-Emotional Strengths Across Students With and Without Disabilities: Different, Not Worse [Symposium]. AERA Annual Meeting San Francisco, CA http://tinyurl.com/qlyypv5 (Conference Canceled)
-
-Garber, A. & Nylund-Gibson, K. L. (2019) Conditional Mediation in Latent Class Analysis [Symposium]. AERA Annual Meeting Toronto, Canada
-
-Garber, A. & Wang, M. (2017) Responsive Early Education and Intervention: A Call for School and Family Collaboration [Poster]. CEC Annual Meeting Boston, MA
-
 ## PUBLICATIONS
 
 Nylund-Gibson, K., Garber, A., Carter, D., Simon, O., Whaling, K., Arch, D., Chan, M., Lawrie, S., and Tartt, E. (2023) [Ten Frequently Asked Questions about Latent Transition Analysis](https://psycnet.apa.org/record/2022-79821-001). Psychological Methods.
@@ -155,6 +135,22 @@ Nylund-Gibson, K., Garber, A., Nishina, A., Bellmore, A., Witkow, M., Singh, J. 
 Denson, N., Ing, M., Nylund-Gibson, K., Garber, A., Whaling, K., Chan, M., Carter, D., Arch, D. (2022). [A latent class analysis of students' openness to learning from diverse others](https://psycnet.apa.org/record/2023-19795-001). Journal of Diversity in Higher Education.
 											                      
 Felix, E.D., Afifi, T., Horan, S. M., Meskunas, H., & Garber, A. (2020). [Why family communication matters: The role of co-rumination and topic avoidance in understanding post-disaster mental health](https://link.springer.com/article/10.1007/s10802-020-00688-7). Journal of abnormal child psychology.
+
+## PRESENTATIONS											                    
+
+Garber, A. & Nylund-Gibson, K. L. (2021) Structural Invariance in Multigroup Latent Class Analysis: Perception of Disability Status and Academic Expectations [Symposium]. AERA Annual Meeting 
+
+Garber, A., Wang, M. & Nylund-Gibson, K. L. (2021) Typologies of Autism: The Utility of Latent Class Analysis to Understand Heterogeneity in Social Responsiveness [Symposium]. AERA Annual Meeting
+
+Garber, A. & Nylund-Gibson, K. L. (2020) Structural Invariance in Multigroup Latent Class Analysis: Perception of Disability Status and Academic Expectations [Symposium]. AERA Annual Meeting San Francisco, CA http://tinyurl.com/vg5nw9q 
+
+Nylund-Gibson, K. L. & Garber, A. (2020) Understanding Change in Latent Transition Analysis Models Using Auxiliary Variables [Symposium]. AERA Annual Meeting San Francisco, CA http://tinyurl.com/vuslpat 
+
+Carter, D., Garber, A., Nylund-Gibson, K. L., Dowdy, E. & Furlong, M. J. (2020) Understanding Patterns of Social-Emotional Strengths Across Students With and Without Disabilities: Different, Not Worse [Symposium]. AERA Annual Meeting San Francisco, CA http://tinyurl.com/qlyypv5 
+
+Garber, A. & Nylund-Gibson, K. L. (2019) Conditional Mediation in Latent Class Analysis [Symposium]. AERA Annual Meeting Toronto, Canada
+
+Garber, A. & Wang, M. (2017) Responsive Early Education and Intervention: A Call for School and Family Collaboration [Poster]. CEC Annual Meeting Boston, MA
 
 ## WORK EXPERIENCE
 
@@ -170,10 +166,6 @@ Behavioral Clinician (May 2014 – December 2014)
 Trumpet Behavioral Health 							            
 Santa Barbara, CA
 
-Mental Health Worker (February 2010 – January 2011)							       
-7th Avenue Center: Mental Health Hospital 
-Santa Cruz, CA
-
 ## ACADEMIC PROJECTS
 
 Website: [`Tidy Workflow with MplusAutomation`](https://garberadamc.github.io/project-site/)  <br />
@@ -185,7 +177,6 @@ Teaching materials & tutorials in advanced quantitative methods taught using R. 
 - `R` | `RStudio` | `Rmarkdown`
 - `Data` |  Analysis | Manipulation | Visualization | Presentation 
 - `Github` |  Website Development | Collaborative Project Repositories
-- `Mplus` | `SPSS` | `APA style` 
 
 ## COURSES
 
