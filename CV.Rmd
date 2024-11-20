@@ -15,8 +15,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Ph.D. | Education & Applied Quantitative Methods (2024) <br />
 *'A Guide to the Measurement of Categorical Constructs: A Latent Class Analysis Modeling Approach'* <br />
-Advisor | Professor Andrew Maul, Professor Karen Nylund-Gibson <br />
-Interdisciplinary Emphasis | Quantitative Methods in Social Science <br />
+Advisors | Professor Andrew Maul & Professor Karen Nylund-Gibson <br />
+Interdisciplinary Emphasis | [Quantitative Methods in Social Science](https://www.qmss.ucsb.edu/Program%20Goals) <br />
 University of California, Santa Barbara <br />
 
 MA | Education & Special Education (2017) <br />
@@ -28,36 +28,36 @@ University of California, Santa Cruz <br />
 
 ## TEACHING EXPERIENCE
 
-Lecturer | Bren School of Environmental Science and Management (Starting; Winter, 2025) <br /> 
-EDS 241: Environmental Policy Evaluation | Graduate course <br /> 
+Lecturer | [Bren School of Environmental Science and Management](https://bren.ucsb.edu/) (Starting; Winter, 2025) <br /> 
+EDS 241 | Environmental Policy Evaluation | Graduate course <br /> 
 University of California, Santa Barbara
 
-Instructor, Associate | Education  (Spring, 2023) <br /> 
-ED 214C: Linear Models for Data Analysis | Graduate course <br />
+Associate Instructor | Education  (Spring, 2023) <br /> 
+ED 214C | Linear Models for Data Analysis | Graduate course <br />
 University of California, Santa Barbara
 
 Teaching Assistant | Education (Spring, 2022) <br /> 
-ED 145: Introduction to Research Methods | Undergraduate course <br />
+ED 145 | Introduction to Research Methods | Undergraduate course <br />
 University of California, Santa Barbara
 
 Teaching Assistant | Education (Spring, 2020) <br /> 
-ED 216C: Structural Equation Modeling | Graduate course <br />
+ED 216C | Structural Equation Modeling | Graduate course <br />
 University of California, Santa Barbara
 
 Teaching Assistant | Education (Winter, 2020)  <br />
-ED 216B: Factor Analysis | Graduate course   <br />
+ED 216B | Factor Analysis | Graduate course   <br />
 University of California, Santa Barbara
 
 Teaching Assistant | Education (Fall, 2019) <br />
-ED 216G: Applied Mixture Modeling | Graduate course <br />
+ED 216G | Applied Mixture Modeling | Graduate course <br />
 University of California, Santa Barbara
 
 Teaching Assistant | Education (Spring, 2019) <br />
-ED 214C: Linear Statistical Models for Data Analysis | Graduate course <br />
+ED 214C | Linear Statistical Models for Data Analysis | Graduate course <br />
 University of California, Santa Barbara
 
-Teaching Assistant, Freshman Summer Start Program (Summer, 2017) <br />
-INT95: The Modern Research University | Undergraduate course <br />
+Teaching Assistant | Freshman Summer Start Program (Summer, 2017) <br />
+INT95 | The Modern Research University | Undergraduate course <br />
 University of California, Santa Barbara
 
 ## WORKSHOPS
@@ -84,25 +84,24 @@ Methods U, GGSE, University of California, Santa Barbara
 
 ## ACADEMIC WORK EXPERIENCE 
 
-#### APPOINTMENTS
+#### APPOINTMENTS | Graduate Student Researcher (GSR)
 
-Graduate Student Researcher, MM4DBER (3 quarters; 2023 – 2024) <br />
-Grant: [Mixture Modeling for Discipline Based Education Researchers](https://mm4dbers.education.ucsb.edu/mixture-modeling-training)  <br />
+GSR | [Mixture Modeling for Discipline Based Education Researchers](https://mm4dbers.education.ucsb.edu/mixture-modeling-training) (3 quarters; 2023 – 2024) <br />
 Position: Hosted by Gervitz Graduate School of Education (50% appointment) <br />
 Principal Investigator: Dr. Karen Nylund-Gibson
 
-Graduate Student Researcher | [Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators](https://immerse.education.ucsb.edu/overview) (2 quarters; 2022 – 2023) <br />
+GSR | [Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, & Educators](https://immerse.education.ucsb.edu/overview) (2 quarters; 2022 – 2023) <br />
 Position | Gervitz Graduate School of Education (50% appointment) <br />
 Principal Investigator | Dr. Karen Nylund-Gibson
 
-Graduate Student Researcher, Implicit Bias Study (2020 – 2022) <br />
+GSR | Implicit Bias Study (2020 – 2022) <br />
 Position | Westmont College (50% appointment) <br />
 Principal Investigator | Dr. Carmel Saad
 
-Graduate Statistics Support Peer (3 quarters; 2019 – 2020) <br />
+GSR | Graduate Statistics Support Peer (3 quarters; 2019 – 2020) <br />
 Position | Gervitz Graduate School of Education (25% appointment)
 
-Graduate Student Researcher | Enhancing Success in Transfer Education for Engineering Majors (2016 – 2017) <br />
+GSR | Enhancing Success in Transfer Education for Engineering Majors (2016 – 2017) <br />
 Position | Department of Chemical Engineering (50% appointment) <br />
 Principal Investigator: Dr. Michael Gerber 
 
