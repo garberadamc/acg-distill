@@ -3,7 +3,7 @@ title: "CV"
 description: |
   Adam C. Garber
   
-  Email | agarber@ucsb.edu
+  Santa Barbara, CA | agarber@ucsb.edu
 
 ---
 
@@ -13,48 +13,51 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## EDUCATION 
 
-Doctoral Student, Advanced to Candidacy (September 2017 – Present) <br />
-Education, Emphasis in Quantitative Methods <br />
-Interdisciplinary Emphasis, Quantitative Methods in Social Science
+Ph.D. | Education & Applied Quantitative Methods (2024) <br />
+*'A Guide to the Measurement of Categorical Constructs: A Latent Class Analysis Modeling Approach'* <br />
+Advisor | Professor Andrew Maul, Professor Karen Nylund-Gibson <br />
+Interdisciplinary Emphasis | Quantitative Methods in Social Science <br />
 University of California, Santa Barbara <br />
-Advisor: Dr. Karen Nylund-Gibson 
 
-Master of Arts (May 2017) <br />
+MA | Education & Special Education (2017) <br />
 University of California, Santa Barbara <br />
-Education, Special Education 
 
-Bachelor of Arts (May, 2011) <br />
+BA | Psychology (2011) <br />
 University of California, Santa Cruz <br />
-Psychology 
+
 
 ## TEACHING EXPERIENCE
 
-Teaching Associate, graduate course (Spring, 2023) <br /> 
-ED 214C: Linear Models for Data Analysis; Dr. Nylund-Gibson <br />
+Lecturer | Bren School of Environmental Science and Management (Starting; Winter, 2025) <br /> 
+EDS 241: Environmental Policy Evaluation | Graduate course <br /> 
 University of California, Santa Barbara
 
-Teaching Assistant, undergraduate course (Spring, 2022) <br /> 
-ED 145: Introduction to Research Methods; Dr. Marcoulides <br />
+Instructor, Associate | Education  (Spring, 2023) <br /> 
+ED 214C: Linear Models for Data Analysis | Graduate course <br />
 University of California, Santa Barbara
 
-Teaching Assistant, graduate course (Spring, 2020) <br /> 
-ED 216C: Structural Equation Modeling; Dr. Nylund-Gibson <br />
+Teaching Assistant | Education (Spring, 2022) <br /> 
+ED 145: Introduction to Research Methods | Undergraduate course <br />
 University of California, Santa Barbara
 
-Teaching Assistant, graduate course (Winter, 2020)  <br />
-ED 216B: Factor Analysis; Dr. Nylund-Gibson   <br />
+Teaching Assistant | Education (Spring, 2020) <br /> 
+ED 216C: Structural Equation Modeling | Graduate course <br />
 University of California, Santa Barbara
 
-Teaching Assistant, graduate course	(Fall, 2019) <br />
-ED 216G: Applied Mixture Modeling; Dr. Nylund-Gibson <br />
+Teaching Assistant | Education (Winter, 2020)  <br />
+ED 216B: Factor Analysis | Graduate course   <br />
 University of California, Santa Barbara
 
-Teaching Assistant, graduate course (Spring, 2019) <br />
-ED 214C: Linear Statistical Models for Data Analysis; Dr. Nylund-Gibson <br />
+Teaching Assistant | Education (Fall, 2019) <br />
+ED 216G: Applied Mixture Modeling | Graduate course <br />
 University of California, Santa Barbara
 
-Teaching Assistant, undergraduate course (Summer, 2017) <br />
-INT95: Freshman Summer Start Program (FSSP); Dr. Ralph Gallucci <br />
+Teaching Assistant | Education (Spring, 2019) <br />
+ED 214C: Linear Statistical Models for Data Analysis | Graduate course <br />
+University of California, Santa Barbara
+
+Teaching Assistant, Freshman Summer Start Program (Summer, 2017) <br />
+INT95: The Modern Research University | Undergraduate course <br />
 University of California, Santa Barbara
 
 ## WORKSHOPS
@@ -81,48 +84,47 @@ Methods U, GGSE, University of California, Santa Barbara
 
 ## ACADEMIC WORK EXPERIENCE 
 
-#### ACADEMIC APPOINTMENTS
+#### APPOINTMENTS
 
 Graduate Student Researcher, MM4DBER (3 quarters; 2023 – 2024) <br />
 Grant: [Mixture Modeling for Discipline Based Education Researchers](https://mm4dbers.education.ucsb.edu/mixture-modeling-training)  <br />
 Position: Hosted by Gervitz Graduate School of Education (50% appointment) <br />
 Principal Investigator: Dr. Karen Nylund-Gibson
 
-Graduate Student Researcher, IMMERSE (2 quarters; 2022 – 2023) <br />
-Grant: [Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators](https://immerse.education.ucsb.edu/overview)  <br />
-Position: Hosted by Gervitz Graduate School of Education (50% appointment) <br />
-Principal Investigator: Dr. Karen Nylund-Gibson
+Graduate Student Researcher | [Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators](https://immerse.education.ucsb.edu/overview) (2 quarters; 2022 – 2023) <br />
+Position | Gervitz Graduate School of Education (50% appointment) <br />
+Principal Investigator | Dr. Karen Nylund-Gibson
 
-Graduate Student Researcher, Implicit Bias Study (2 years; 2020 – 2022) <br />
-Position: Hosted by Westmont College (50% appointment) <br />
-Principal Investigator: Dr. Carmel Saad
+Graduate Student Researcher, Implicit Bias Study (2020 – 2022) <br />
+Position | Westmont College (50% appointment) <br />
+Principal Investigator | Dr. Carmel Saad
 
 Graduate Statistics Support Peer (3 quarters; 2019 – 2020) <br />
-Position: Hosted by Gervitz Graduate School of Education (25% appointment)
+Position | Gervitz Graduate School of Education (25% appointment)
 
-Graduate Student Researcher, ESTEEM (2016 – 2017) <br />
-Grant: Enhancing Success in Transfer Education for Engineering Majors <br />s
-Position: Hosted by Department of Chemical Engineering (50% appointment) <br />
-Principal Investigator: Dr. Michael Gerber (University of California, Santa Barbara)
+Graduate Student Researcher | Enhancing Success in Transfer Education for Engineering Majors (2016 – 2017) <br />
+Position | Department of Chemical Engineering (50% appointment) <br />
+Principal Investigator: Dr. Michael Gerber 
 
-Cognitive Research Assistant (2011) <br />
-Principal Investigator: Professor Alan H Kawamoto <br />
+Research Assistant (2011) <br />
+Position | Cognitive Psychology
+Principal Investigator: Professor Alan H. Kawamoto <br />
 University of California, Santa Cruz
 
 #### GRANT WRITING EXPERIENCE
 
 Grant Writing Research Assistant (2020) <br />
-Investigator: Nylund-Gibson  <br />
+Investigator: Dr. Karen Nylund-Gibson  <br />
 Applied Mixture Modeling Training Workshops for Discipline Based Education Researchers <br />
-Submitted to National Science Foundation (NSF). 
+Accepted | National Science Foundation 
 
 Grant Writing Research Assistant (2019)  <br />
-Investigator: Nylund-Gibson <br />
+Investigator: Dr. Karen Nylund-Gibson <br />
 Applied Mixture Modeling Training Workshops and Resources for Education Researchers <br />
-Submitted to Institute of Education Sciences (IES). 
+Accepted | Institute of Education Sciences  
 
 Grant Writing Research Assistant (2015) <br />
-Investigator: Wang & Singer  <br />
+Investigators: Dr. Mian Wang & Dr George Singer  <br />
 A comparative study of patterns of family support for children with developmental disabilities:  <br />
 Similarities and differences in U.S. and China. Submitted to Department of Education.
 
